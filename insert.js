@@ -22,7 +22,7 @@ async function main() {
   // ObjectId 추가 ...
   //   mySchema.path('_id');
 
-  // 모델 생성
+  // 모델 생성, 여기서  model(1,2) 1: 데이터베이스의  컬렉션
   const myDocument = mongoose.model('document', mySchema);
 
   // v1. 단건-다건 추가
