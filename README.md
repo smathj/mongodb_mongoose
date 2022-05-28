@@ -1,5 +1,3 @@
-# mongodb_mongoose
-
 # 개인학습 몽고디비\_몽구스
 
 - type: module
